@@ -1,0 +1,10 @@
+[Activity]
+name = Espiritualidad para Niños 6
+activity_version = 1
+bundle_id = org.sfk.SFK-ES-6
+exec = sugar-activity activity.VideoPlayerActivity
+icon = sfk
+license = MIT
+summary = vídeos de Espiritualidad para Niños (Parte 6)
+
+
